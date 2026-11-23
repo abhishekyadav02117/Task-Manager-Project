@@ -21,7 +21,6 @@ A Task Manager web application built with React and React Router, featuring auth
 - Components & Props
 - State Management
 - useState
-- useEffect
 - useContext
 - Context API
 - React Router
